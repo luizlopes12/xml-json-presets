@@ -6,10 +6,11 @@ await fetch('./texts.xml')
 .then(response => response.text())
 .then(xml => {
     let xmlContent = xml;
-
     let parser = new DOMParser();
     let xmlDOM = parser.parseFromString(xmlContent, 'application/xml');
     let texts = xmlDOM.querySelectorAll('lbl');
+
+    
     textsArray = texts
 })
 /*Mostra o conteúdo do xml*/
