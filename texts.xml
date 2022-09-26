@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <texts>
-    <lbl val='bomdia'>
+    <lbl data-text='bomdia'>
         bomdia xml
     </lbl>
-    <lbl val='boatarde'>
+    <lbl data-text='boatarde'>
         boatarde xml
     </lbl>
-    <lbl val='boanoite'>
+    <lbl data-text='boanoite'>
         boanoite xml
     </lbl>
 </texts>

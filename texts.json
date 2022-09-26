@@ -1,5 +1,5 @@
-{
-"bomdia": "bomdia json",
-"boatarde": "boatarde json",
-"boanoite": "boanoite json"
-}
+[{
+"seila": "bomdia json"},
+{"seila": "boatarde json"},
+{"seila": "boanoite json"}
+]
